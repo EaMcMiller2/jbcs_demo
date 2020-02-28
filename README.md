@@ -4,3 +4,4 @@
 
 * Name: Eric McMiller
 * Email: eric.mcmiller@westpoint.edu
+* Phone: 312-493-8169
